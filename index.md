@@ -11,6 +11,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 
 #### Recent Announcements
 
+* (11/20) Updated [hw4 part2](https://piazza.com/class/jgwnwiy186d6pu?cid=398)
 * (11/14) Fixed bug in [FD practice problems](./fd.html)
 * (11/13) [Clarification of functional dependency decomposition](./fdclarification)
 * (11/05) [Link to 100 practice problems for functional dependencies](./fd.html)
